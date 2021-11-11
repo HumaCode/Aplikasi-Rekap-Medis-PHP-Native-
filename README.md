@@ -1,5 +1,4 @@
 # Aplikasi-Rekap-Medis-PHP-Native-
-rekap medis
 
 
 Aplikasi Rekap medis / Rekam Medis..
@@ -12,7 +11,7 @@ fitur.
 - input multiple, edit dan hapus.
 
 
-login
+login <br>
 username : admin <br>
 pass : admin
 
