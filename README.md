@@ -13,7 +13,7 @@ fitur.
 
 
 login
-username : admin
+username : admin <br>
 pass : admin
 
 **catatan untuik kedepan kemungkinan akan di tambahakan fitur registrasi dan lupa password (kalo gak lupa..:))
